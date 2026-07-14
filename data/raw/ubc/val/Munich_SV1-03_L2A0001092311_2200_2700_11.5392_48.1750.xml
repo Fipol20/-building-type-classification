@@ -1,0 +1,127 @@
+<?xml version='1.0' encoding='utf-8'?>
+<annotation>
+	<source>
+		<filename>Munich_SV1-03_L2A0001092311_2200_2700_11.5392_48.1750_RGB.tif</filename>
+		<origin>SuperView</origin>
+	</source>
+	<research>
+		<version>1.0</version>
+		<provider>FAIR1M</provider>
+		<author>Cyber</author>
+		<pluginname>FAIR1M</pluginname>
+		<pluginclass>instance segmentation</pluginclass>
+		<time>2022-2</time>
+	</research>
+	<size>
+		<width>600</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<objects>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>poly</type>
+			<description>None</description>
+			<possibleresult roof_type="flat_roof" use="sports_hall" />
+			<points is_hollow="False">
+				<point>561,389</point>
+				<point>560,415</point>
+				<point>557,415</point>
+				<point>553,408</point>
+				<point>553,389</point>
+				<point>561,389</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>poly</type>
+			<description>None</description>
+			<possibleresult roof_type="flat_roof" use="sports_hall" />
+			<points is_hollow="False">
+				<point>526,379</point>
+				<point>549,378</point>
+				<point>549,386</point>
+				<point>526,387</point>
+				<point>526,379</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>poly</type>
+			<description>None</description>
+			<possibleresult roof_type="row_roof_gable" use="sports_hall" />
+			<points is_hollow="False">
+				<point>588,201</point>
+				<point>587,202</point>
+				<point>566,202</point>
+				<point>565,203</point>
+				<point>544,203</point>
+				<point>543,204</point>
+				<point>522,204</point>
+				<point>521,205</point>
+				<point>510,205</point>
+				<point>510,226</point>
+				<point>509,227</point>
+				<point>503,227</point>
+				<point>502,228</point>
+				<point>494,228</point>
+				<point>494,237</point>
+				<point>495,238</point>
+				<point>495,257</point>
+				<point>496,258</point>
+				<point>496,276</point>
+				<point>497,277</point>
+				<point>497,296</point>
+				<point>498,297</point>
+				<point>498,306</point>
+				<point>506,306</point>
+				<point>507,305</point>
+				<point>513,305</point>
+				<point>514,306</point>
+				<point>514,317</point>
+				<point>515,318</point>
+				<point>515,342</point>
+				<point>516,343</point>
+				<point>516,366</point>
+				<point>517,367</point>
+				<point>517,379</point>
+				<point>537,379</point>
+				<point>538,378</point>
+				<point>561,378</point>
+				<point>562,377</point>
+				<point>586,377</point>
+				<point>587,376</point>
+				<point>599,376</point>
+				<point>599,201</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>poly</type>
+			<description>None</description>
+			<possibleresult roof_type="flat_roof" use="sports_hall" />
+			<points is_hollow="False">
+				<point>584,154</point>
+				<point>583,155</point>
+				<point>554,155</point>
+				<point>553,156</point>
+				<point>524,156</point>
+				<point>523,157</point>
+				<point>508,157</point>
+				<point>508,168</point>
+				<point>509,169</point>
+				<point>509,192</point>
+				<point>510,193</point>
+				<point>510,204</point>
+				<point>543,204</point>
+				<point>544,203</point>
+				<point>565,203</point>
+				<point>566,202</point>
+				<point>587,202</point>
+				<point>588,201</point>
+				<point>599,201</point>
+				<point>599,154</point>
+			</points>
+		</object>
+	</objects>
+</annotation>

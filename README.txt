@@ -11,6 +11,8 @@ Building Type Classification
 
 Данные: AID + RESISC45, 3139 фото.
 Split: train 2197 / val 471 / test 471 (файл data/processed/split.csv).
+Датсет raw/ubc содержит спутниковые фото, на которых размечены контуры зданий и 
+указан тип каждого здания (не используется).
 
 Установка:
   pip install -r requirements.txt
@@ -19,7 +21,8 @@ Split: train 2197 / val 471 / test 471 (файл data/processed/split.csv).
   notebooks/01_eda.ipynb           - проверка данных
   notebooks/02_baseline.ipynb        - SimpleCNN
   notebooks/03_training.ipynb        - ResNet18
-  notebooks/04_convnext_training.ipynb - ConvNeXt-Tiny
+  notebooks/04_convnext_training.ipynb   - ConvNeXt-Tiny
+  notebooks/04_convnext_xxl_training.ipynb - ConvNeXt-XXLarge (не запускался)
 Результаты обучения:
   models/   - веса
   reports/  - графики, матрица ошибок
@@ -27,8 +30,7 @@ Split: train 2197 / val 471 / test 471 (файл data/processed/split.csv).
 Структура:
   data/       - датасеты и split.csv
   notebooks/  - ноутбуки
-  src/        - код датасета и моделей
-  scripts/    - split
+  src/        - код датасета, моделей и utils.py (все параметры)
   models/     - сохранённые веса
   reports/    - графики
 

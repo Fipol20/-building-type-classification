@@ -1,0 +1,94 @@
+<?xml version='1.0' encoding='utf-8'?>
+<annotation>
+	<source>
+		<filename>Munich_SV1-03_L2A0001092311_1800_2700_11.5365_48.1750_RGB.tif</filename>
+		<origin>SuperView</origin>
+	</source>
+	<research>
+		<version>1.0</version>
+		<provider>FAIR1M</provider>
+		<author>Cyber</author>
+		<pluginname>FAIR1M</pluginname>
+		<pluginclass>instance segmentation</pluginclass>
+		<time>2022-2</time>
+	</research>
+	<size>
+		<width>600</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<objects>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>poly</type>
+			<description>None</description>
+			<possibleresult roof_type="flat_roof" use="manufacturing" />
+			<points is_hollow="False">
+				<point>0,556</point>
+				<point>0,599</point>
+				<point>156,599</point>
+				<point>156,558</point>
+				<point>93,558</point>
+				<point>92,557</point>
+				<point>31,557</point>
+				<point>30,556</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>poly</type>
+			<description>None</description>
+			<possibleresult roof_type="gable_roof_asymm" use="manufacturing" />
+			<points is_hollow="False">
+				<point>160,483</point>
+				<point>160,518</point>
+				<point>122,518</point>
+				<point>0,516</point>
+				<point>0,480</point>
+				<point>120,482</point>
+				<point>160,483</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>poly</type>
+			<description>None</description>
+			<possibleresult roof_type="flat_roof" use="other" />
+			<points is_hollow="False">
+				<point>113,448</point>
+				<point>113,458</point>
+				<point>106,458</point>
+				<point>106,448</point>
+				<point>113,448</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>poly</type>
+			<description>None</description>
+			<possibleresult roof_type="flat_roof" use="other" />
+			<points is_hollow="False">
+				<point>98,447</point>
+				<point>97,464</point>
+				<point>84,464</point>
+				<point>85,447</point>
+				<point>98,447</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>poly</type>
+			<description>None</description>
+			<possibleresult roof_type="flat_roof" use="other" />
+			<points is_hollow="False">
+				<point>161,445</point>
+				<point>161,464</point>
+				<point>120,464</point>
+				<point>114,464</point>
+				<point>115,444</point>
+				<point>119,445</point>
+				<point>161,445</point>
+			</points>
+		</object>
+	</objects>
+</annotation>

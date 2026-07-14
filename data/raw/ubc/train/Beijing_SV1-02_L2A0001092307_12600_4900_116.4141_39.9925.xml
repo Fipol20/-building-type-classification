@@ -1,0 +1,1097 @@
+<?xml version='1.0' encoding='utf-8'?>
+<annotation>
+	<source>
+		<filename>Beijing_SV1-02_L2A0001092307_12600_4900_116.4141_39.9925_RGB.tif</filename>
+		<origin>SuperView</origin>
+	</source>
+	<research>
+		<version>1.0</version>
+		<provider>FAIR1M</provider>
+		<author>Cyber</author>
+		<pluginname>FAIR1M</pluginname>
+		<pluginclass>instance segmentation</pluginclass>
+		<time>2022-2</time>
+	</research>
+	<size>
+		<width>600</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<objects>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>poly</type>
+			<description>None</description>
+			<possibleresult roof_type="flat_roof" use="commercial_other" />
+			<points is_hollow="False">
+				<point>193,584</point>
+				<point>193,591</point>
+				<point>192,592</point>
+				<point>192,599</point>
+				<point>197,599</point>
+				<point>197,596</point>
+				<point>198,595</point>
+				<point>198,585</point>
+				<point>196,585</point>
+				<point>195,584</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>poly</type>
+			<description>None</description>
+			<possibleresult roof_type="hipped_roof_v2" use="gas_station" />
+			<points is_hollow="False">
+				<point>572,574</point>
+				<point>571,575</point>
+				<point>542,575</point>
+				<point>541,576</point>
+				<point>527,576</point>
+				<point>527,599</point>
+				<point>586,599</point>
+				<point>586,574</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>poly</type>
+			<description>None</description>
+			<possibleresult roof_type="flat_roof" use="public_other" />
+			<points is_hollow="False">
+				<point>523,576</point>
+				<point>506,576</point>
+				<point>505,567</point>
+				<point>523,566</point>
+				<point>523,576</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>poly</type>
+			<description>None</description>
+			<possibleresult roof_type="flat_roof" use="commercial_other" />
+			<points is_hollow="False">
+				<point>201,566</point>
+				<point>201,570</point>
+				<point>200,571</point>
+				<point>200,580</point>
+				<point>199,581</point>
+				<point>199,588</point>
+				<point>198,589</point>
+				<point>198,595</point>
+				<point>197,596</point>
+				<point>197,599</point>
+				<point>221,599</point>
+				<point>221,596</point>
+				<point>222,595</point>
+				<point>222,588</point>
+				<point>223,587</point>
+				<point>223,580</point>
+				<point>224,579</point>
+				<point>224,569</point>
+				<point>221,569</point>
+				<point>220,568</point>
+				<point>213,568</point>
+				<point>212,567</point>
+				<point>205,567</point>
+				<point>204,566</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>poly</type>
+			<description>None</description>
+			<possibleresult roof_type="flat_roof" use="multi_family_house" />
+			<points is_hollow="False">
+				<point>462,563</point>
+				<point>461,564</point>
+				<point>413,564</point>
+				<point>412,565</point>
+				<point>363,565</point>
+				<point>362,566</point>
+				<point>314,566</point>
+				<point>313,567</point>
+				<point>289,567</point>
+				<point>284,572</point>
+				<point>284,573</point>
+				<point>275,582</point>
+				<point>275,583</point>
+				<point>271,587</point>
+				<point>271,599</point>
+				<point>376,599</point>
+				<point>377,598</point>
+				<point>420,598</point>
+				<point>421,597</point>
+				<point>464,597</point>
+				<point>465,596</point>
+				<point>486,596</point>
+				<point>486,563</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>poly</type>
+			<description>None</description>
+			<possibleresult roof_type="flat_roof" use="multi_family_house" />
+			<points is_hollow="False">
+				<point>131,591</point>
+				<point>94,585</point>
+				<point>99,556</point>
+				<point>151,565</point>
+				<point>146,594</point>
+				<point>131,591</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>poly</type>
+			<description>None</description>
+			<possibleresult roof_type="flat_roof" use="commercial_other" />
+			<points is_hollow="False">
+				<point>89,547</point>
+				<point>89,549</point>
+				<point>88,550</point>
+				<point>88,554</point>
+				<point>87,555</point>
+				<point>87,559</point>
+				<point>86,560</point>
+				<point>86,564</point>
+				<point>85,565</point>
+				<point>85,570</point>
+				<point>84,571</point>
+				<point>84,575</point>
+				<point>83,576</point>
+				<point>83,580</point>
+				<point>82,581</point>
+				<point>82,585</point>
+				<point>81,586</point>
+				<point>81,590</point>
+				<point>80,591</point>
+				<point>80,596</point>
+				<point>79,597</point>
+				<point>79,599</point>
+				<point>130,599</point>
+				<point>130,591</point>
+				<point>128,591</point>
+				<point>127,590</point>
+				<point>122,590</point>
+				<point>121,589</point>
+				<point>116,589</point>
+				<point>115,588</point>
+				<point>110,588</point>
+				<point>109,587</point>
+				<point>104,587</point>
+				<point>103,586</point>
+				<point>98,586</point>
+				<point>97,585</point>
+				<point>92,585</point>
+				<point>91,584</point>
+				<point>89,584</point>
+				<point>88,583</point>
+				<point>88,582</point>
+				<point>87,581</point>
+				<point>87,580</point>
+				<point>86,579</point>
+				<point>86,576</point>
+				<point>87,575</point>
+				<point>87,571</point>
+				<point>88,570</point>
+				<point>88,566</point>
+				<point>89,565</point>
+				<point>89,561</point>
+				<point>90,560</point>
+				<point>90,556</point>
+				<point>91,555</point>
+				<point>91,554</point>
+				<point>92,553</point>
+				<point>98,553</point>
+				<point>99,554</point>
+				<point>102,554</point>
+				<point>102,552</point>
+				<point>103,551</point>
+				<point>103,550</point>
+				<point>102,550</point>
+				<point>101,549</point>
+				<point>98,549</point>
+				<point>97,548</point>
+				<point>93,548</point>
+				<point>92,547</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>poly</type>
+			<description>None</description>
+			<possibleresult roof_type="flat_roof" use="residential_other" />
+			<points is_hollow="False">
+				<point>368,546</point>
+				<point>311,547</point>
+				<point>310,537</point>
+				<point>368,535</point>
+				<point>368,546</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>poly</type>
+			<description>None</description>
+			<possibleresult roof_type="flat_roof" use="apartment_high" />
+			<points is_hollow="False">
+				<point>1,523</point>
+				<point>1,526</point>
+				<point>6,526</point>
+				<point>6,542</point>
+				<point>12,542</point>
+				<point>12,527</point>
+				<point>18,527</point>
+				<point>18,523</point>
+				<point>37,523</point>
+				<point>37,543</point>
+				<point>40,543</point>
+				<point>40,577</point>
+				<point>39,577</point>
+				<point>0,576</point>
+				<point>0,523</point>
+				<point>1,523</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>poly</type>
+			<description>None</description>
+			<possibleresult roof_type="flat_roof" use="other" />
+			<points is_hollow="False">
+				<point>213,520</point>
+				<point>212,528</point>
+				<point>211,533</point>
+				<point>196,530</point>
+				<point>197,525</point>
+				<point>205,527</point>
+				<point>207,519</point>
+				<point>213,520</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>poly</type>
+			<description>None</description>
+			<possibleresult roof_type="flat_roof" use="office" />
+			<points is_hollow="False">
+				<point>598,461</point>
+				<point>597,462</point>
+				<point>574,462</point>
+				<point>573,463</point>
+				<point>561,463</point>
+				<point>561,473</point>
+				<point>562,474</point>
+				<point>562,482</point>
+				<point>561,483</point>
+				<point>549,483</point>
+				<point>548,484</point>
+				<point>535,484</point>
+				<point>534,483</point>
+				<point>534,477</point>
+				<point>525,477</point>
+				<point>524,478</point>
+				<point>515,478</point>
+				<point>515,481</point>
+				<point>516,482</point>
+				<point>516,484</point>
+				<point>515,485</point>
+				<point>499,485</point>
+				<point>498,486</point>
+				<point>482,486</point>
+				<point>481,485</point>
+				<point>481,463</point>
+				<point>470,463</point>
+				<point>469,464</point>
+				<point>447,464</point>
+				<point>446,465</point>
+				<point>435,465</point>
+				<point>435,478</point>
+				<point>436,479</point>
+				<point>436,492</point>
+				<point>438,492</point>
+				<point>439,493</point>
+				<point>439,501</point>
+				<point>440,502</point>
+				<point>440,519</point>
+				<point>441,520</point>
+				<point>441,528</point>
+				<point>483,528</point>
+				<point>484,527</point>
+				<point>511,527</point>
+				<point>512,526</point>
+				<point>540,526</point>
+				<point>541,525</point>
+				<point>568,525</point>
+				<point>569,524</point>
+				<point>596,524</point>
+				<point>597,523</point>
+				<point>599,523</point>
+				<point>599,461</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>poly</type>
+			<description>None</description>
+			<possibleresult roof_type="flat_roof" use="multi_family_house" />
+			<points is_hollow="False">
+				<point>180,457</point>
+				<point>180,470</point>
+				<point>236,470</point>
+				<point>236,499</point>
+				<point>180,499</point>
+				<point>180,485</point>
+				<point>94,486</point>
+				<point>94,458</point>
+				<point>180,457</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>poly</type>
+			<description>None</description>
+			<possibleresult roof_type="flat_roof" use="residential_other" />
+			<points is_hollow="False">
+				<point>330,488</point>
+				<point>321,488</point>
+				<point>319,450</point>
+				<point>328,450</point>
+				<point>330,488</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>poly</type>
+			<description>None</description>
+			<possibleresult roof_type="gable_roof" use="residential_other" />
+			<points is_hollow="False">
+				<point>75,460</point>
+				<point>0,460</point>
+				<point>0,441</point>
+				<point>75,441</point>
+				<point>75,460</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>poly</type>
+			<description>None</description>
+			<possibleresult roof_type="flat_roof" use="multi_family_house" />
+			<points is_hollow="False">
+				<point>30,384</point>
+				<point>47,384</point>
+				<point>55,384</point>
+				<point>55,408</point>
+				<point>49,408</point>
+				<point>49,399</point>
+				<point>43,399</point>
+				<point>43,408</point>
+				<point>33,408</point>
+				<point>33,399</point>
+				<point>26,399</point>
+				<point>26,409</point>
+				<point>15,409</point>
+				<point>15,399</point>
+				<point>11,399</point>
+				<point>11,384</point>
+				<point>30,384</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>poly</type>
+			<description>None</description>
+			<possibleresult roof_type="flat_roof" use="other" />
+			<points is_hollow="False">
+				<point>466,391</point>
+				<point>446,391</point>
+				<point>446,383</point>
+				<point>466,383</point>
+				<point>466,391</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>poly</type>
+			<description>None</description>
+			<possibleresult roof_type="flat_roof" use="multi_family_house" />
+			<points is_hollow="False">
+				<point>11,384</point>
+				<point>11,399</point>
+				<point>11,410</point>
+				<point>0,410</point>
+				<point>0,376</point>
+				<point>11,376</point>
+				<point>11,384</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>poly</type>
+			<description>None</description>
+			<possibleresult roof_type="flat_roof" use="multi_family_house" />
+			<points is_hollow="False">
+				<point>309,374</point>
+				<point>315,503</point>
+				<point>406,499</point>
+				<point>407,529</point>
+				<point>287,534</point>
+				<point>285,504</point>
+				<point>280,376</point>
+				<point>309,374</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>poly</type>
+			<description>None</description>
+			<possibleresult roof_type="flat_roof" use="other" />
+			<points is_hollow="False">
+				<point>465,379</point>
+				<point>450,379</point>
+				<point>450,370</point>
+				<point>465,370</point>
+				<point>465,379</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>poly</type>
+			<description>None</description>
+			<possibleresult roof_type="flat_roof" use="commercial_other" />
+			<points is_hollow="False">
+				<point>130,368</point>
+				<point>130,406</point>
+				<point>123,406</point>
+				<point>122,434</point>
+				<point>96,434</point>
+				<point>96,368</point>
+				<point>123,368</point>
+				<point>130,368</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>poly</type>
+			<description>None</description>
+			<possibleresult roof_type="flat_roof" use="hotel" />
+			<points is_hollow="False">
+				<point>233,365</point>
+				<point>233,438</point>
+				<point>201,438</point>
+				<point>202,365</point>
+				<point>233,365</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>poly</type>
+			<description>None</description>
+			<possibleresult roof_type="flat_roof" use="office" />
+			<points is_hollow="False">
+				<point>488,346</point>
+				<point>488,387</point>
+				<point>513,387</point>
+				<point>514,388</point>
+				<point>538,388</point>
+				<point>539,389</point>
+				<point>539,409</point>
+				<point>599,409</point>
+				<point>599,358</point>
+				<point>593,358</point>
+				<point>591,356</point>
+				<point>591,355</point>
+				<point>586,350</point>
+				<point>586,349</point>
+				<point>584,347</point>
+				<point>537,347</point>
+				<point>536,346</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>poly</type>
+			<description>None</description>
+			<possibleresult roof_type="gable_roof" use="residential_other" />
+			<points is_hollow="False">
+				<point>84,344</point>
+				<point>83,434</point>
+				<point>73,434</point>
+				<point>74,344</point>
+				<point>84,344</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>poly</type>
+			<description>None</description>
+			<possibleresult roof_type="flat_roof" use="multi_family_house" />
+			<points is_hollow="False">
+				<point>233,365</point>
+				<point>202,365</point>
+				<point>97,364</point>
+				<point>97,339</point>
+				<point>233,340</point>
+				<point>233,365</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>poly</type>
+			<description>None</description>
+			<possibleresult roof_type="flat_roof" use="other" />
+			<points is_hollow="False">
+				<point>402,355</point>
+				<point>337,356</point>
+				<point>336,339</point>
+				<point>401,338</point>
+				<point>402,355</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>poly</type>
+			<description>None</description>
+			<possibleresult roof_type="hipped_roof_v2" use="other" />
+			<points is_hollow="False">
+				<point>420,396</point>
+				<point>406,396</point>
+				<point>404,338</point>
+				<point>418,338</point>
+				<point>420,396</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>poly</type>
+			<description>None</description>
+			<possibleresult roof_type="flat_roof" use="residential_other" />
+			<points is_hollow="False">
+				<point>304,354</point>
+				<point>267,354</point>
+				<point>266,337</point>
+				<point>303,336</point>
+				<point>304,354</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>poly</type>
+			<description>None</description>
+			<possibleresult roof_type="flat_roof" use="multi_family_house" />
+			<points is_hollow="False">
+				<point>47,384</point>
+				<point>30,384</point>
+				<point>30,375</point>
+				<point>24,375</point>
+				<point>25,325</point>
+				<point>30,325</point>
+				<point>30,321</point>
+				<point>49,321</point>
+				<point>49,325</point>
+				<point>56,325</point>
+				<point>55,375</point>
+				<point>47,375</point>
+				<point>47,384</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>poly</type>
+			<description>None</description>
+			<possibleresult roof_type="flat_roof" use="residential_other" />
+			<points is_hollow="False">
+				<point>508,310</point>
+				<point>487,310</point>
+				<point>487,300</point>
+				<point>508,300</point>
+				<point>508,310</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>poly</type>
+			<description>None</description>
+			<possibleresult roof_type="flat_roof" use="multi_family_house" />
+			<points is_hollow="False">
+				<point>2,286</point>
+				<point>2,312</point>
+				<point>0,311</point>
+				<point>0,285</point>
+				<point>2,286</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>poly</type>
+			<description>None</description>
+			<possibleresult roof_type="gable_roof" use="multi_family_house" />
+			<points is_hollow="False">
+				<point>402,280</point>
+				<point>402,311</point>
+				<point>282,311</point>
+				<point>282,280</point>
+				<point>402,280</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>poly</type>
+			<description>None</description>
+			<possibleresult roof_type="flat_roof" use="other" />
+			<points is_hollow="False">
+				<point>289,246</point>
+				<point>288,263</point>
+				<point>274,262</point>
+				<point>274,246</point>
+				<point>289,246</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>poly</type>
+			<description>None</description>
+			<possibleresult roof_type="gable_roof" use="multi_family_house" />
+			<points is_hollow="False">
+				<point>477,245</point>
+				<point>476,304</point>
+				<point>419,303</point>
+				<point>419,272</point>
+				<point>446,272</point>
+				<point>446,245</point>
+				<point>477,245</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>poly</type>
+			<description>None</description>
+			<possibleresult roof_type="flat_roof" use="theatre" />
+			<points is_hollow="False">
+				<point>526,234</point>
+				<point>575,235</point>
+				<point>581,235</point>
+				<point>587,235</point>
+				<point>587,245</point>
+				<point>581,245</point>
+				<point>580,275</point>
+				<point>525,274</point>
+				<point>526,246</point>
+				<point>522,246</point>
+				<point>522,234</point>
+				<point>526,234</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>poly</type>
+			<description>None</description>
+			<possibleresult roof_type="flat_roof" use="residential_other" />
+			<points is_hollow="False">
+				<point>103,222</point>
+				<point>102,262</point>
+				<point>87,262</point>
+				<point>88,222</point>
+				<point>103,222</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>poly</type>
+			<description>None</description>
+			<possibleresult roof_type="flat_roof" use="theatre" />
+			<points is_hollow="False">
+				<point>526,212</point>
+				<point>526,234</point>
+				<point>522,234</point>
+				<point>490,234</point>
+				<point>490,211</point>
+				<point>526,212</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>poly</type>
+			<description>None</description>
+			<possibleresult roof_type="gable_roof" use="multi_family_house" />
+			<points is_hollow="False">
+				<point>403,212</point>
+				<point>402,242</point>
+				<point>301,240</point>
+				<point>302,211</point>
+				<point>403,212</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>poly</type>
+			<description>None</description>
+			<possibleresult roof_type="flat_roof" use="apartment_high" />
+			<points is_hollow="False">
+				<point>244,218</point>
+				<point>244,283</point>
+				<point>178,283</point>
+				<point>178,220</point>
+				<point>175,220</point>
+				<point>175,209</point>
+				<point>201,209</point>
+				<point>201,215</point>
+				<point>208,215</point>
+				<point>208,226</point>
+				<point>215,226</point>
+				<point>215,215</point>
+				<point>222,215</point>
+				<point>222,209</point>
+				<point>244,209</point>
+				<point>248,209</point>
+				<point>248,218</point>
+				<point>244,218</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>poly</type>
+			<description>None</description>
+			<possibleresult roof_type="arched_roof" use="residential_other" />
+			<points is_hollow="False">
+				<point>65,206</point>
+				<point>65,268</point>
+				<point>55,268</point>
+				<point>56,206</point>
+				<point>65,206</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>poly</type>
+			<description>None</description>
+			<possibleresult roof_type="flat_roof" use="residential_other" />
+			<points is_hollow="False">
+				<point>395,203</point>
+				<point>395,206</point>
+				<point>377,206</point>
+				<point>377,203</point>
+				<point>395,203</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>poly</type>
+			<description>None</description>
+			<possibleresult roof_type="flat_roof" use="multi_family_house" />
+			<points is_hollow="False">
+				<point>33,201</point>
+				<point>33,185</point>
+				<point>51,185</point>
+				<point>51,206</point>
+				<point>55,206</point>
+				<point>54,285</point>
+				<point>26,284</point>
+				<point>26,257</point>
+				<point>22,257</point>
+				<point>23,207</point>
+				<point>33,207</point>
+				<point>33,201</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>poly</type>
+			<description>None</description>
+			<possibleresult roof_type="flat_roof" use="theatre" />
+			<points is_hollow="False">
+				<point>576,177</point>
+				<point>575,235</point>
+				<point>526,234</point>
+				<point>526,212</point>
+				<point>527,176</point>
+				<point>576,177</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>poly</type>
+			<description>None</description>
+			<possibleresult roof_type="other" use="multi_family_house" />
+			<points is_hollow="False">
+				<point>33,185</point>
+				<point>33,201</point>
+				<point>0,201</point>
+				<point>0,168</point>
+				<point>34,168</point>
+				<point>33,185</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>poly</type>
+			<description>None</description>
+			<possibleresult roof_type="gable_roof" use="multi_family_house" />
+			<points is_hollow="False">
+				<point>478,153</point>
+				<point>476,210</point>
+				<point>418,209</point>
+				<point>419,177</point>
+				<point>434,178</point>
+				<point>434,182</point>
+				<point>447,182</point>
+				<point>447,178</point>
+				<point>448,152</point>
+				<point>478,153</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>poly</type>
+			<description>None</description>
+			<possibleresult roof_type="flat_roof" use="theatre" />
+			<points is_hollow="False">
+				<point>576,177</point>
+				<point>527,176</point>
+				<point>524,176</point>
+				<point>524,151</point>
+				<point>540,151</point>
+				<point>540,143</point>
+				<point>583,144</point>
+				<point>583,177</point>
+				<point>576,177</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>poly</type>
+			<description>None</description>
+			<possibleresult roof_type="gable_roof" use="multi_family_house" />
+			<points is_hollow="False">
+				<point>404,144</point>
+				<point>403,172</point>
+				<point>302,170</point>
+				<point>302,143</point>
+				<point>404,144</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>poly</type>
+			<description>None</description>
+			<possibleresult roof_type="flat_roof" use="commercial_other" />
+			<points is_hollow="False">
+				<point>190,116</point>
+				<point>190,122</point>
+				<point>181,122</point>
+				<point>181,116</point>
+				<point>190,116</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>poly</type>
+			<description>None</description>
+			<possibleresult roof_type="flat_roof" use="commercial_other" />
+			<points is_hollow="False">
+				<point>541,111</point>
+				<point>541,127</point>
+				<point>509,126</point>
+				<point>509,116</point>
+				<point>509,110</point>
+				<point>541,111</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>poly</type>
+			<description>None</description>
+			<possibleresult roof_type="flat_roof" use="commercial_other" />
+			<points is_hollow="False">
+				<point>550,111</point>
+				<point>551,85</point>
+				<point>580,86</point>
+				<point>580,111</point>
+				<point>550,111</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>poly</type>
+			<description>None</description>
+			<possibleresult roof_type="other" use="commercial_other" />
+			<points is_hollow="False">
+				<point>309,103</point>
+				<point>309,120</point>
+				<point>296,120</point>
+				<point>296,229</point>
+				<point>270,229</point>
+				<point>270,85</point>
+				<point>296,85</point>
+				<point>309,85</point>
+				<point>309,103</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>poly</type>
+			<description>None</description>
+			<possibleresult roof_type="flat_roof" use="commercial_other" />
+			<points is_hollow="False">
+				<point>551,85</point>
+				<point>550,111</point>
+				<point>541,111</point>
+				<point>509,110</point>
+				<point>509,85</point>
+				<point>551,85</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>poly</type>
+			<description>None</description>
+			<possibleresult roof_type="flat_roof" use="residential_other" />
+			<points is_hollow="False">
+				<point>417,82</point>
+				<point>416,117</point>
+				<point>411,117</point>
+				<point>411,82</point>
+				<point>417,82</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>poly</type>
+			<description>None</description>
+			<possibleresult roof_type="gable_roof" use="office" />
+			<points is_hollow="False">
+				<point>509,85</point>
+				<point>509,110</point>
+				<point>509,116</point>
+				<point>433,115</point>
+				<point>433,79</point>
+				<point>509,80</point>
+				<point>509,85</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>poly</type>
+			<description>None</description>
+			<possibleresult roof_type="flat_roof" use="commercial_other" />
+			<points is_hollow="False">
+				<point>225,73</point>
+				<point>225,123</point>
+				<point>194,123</point>
+				<point>194,97</point>
+				<point>182,97</point>
+				<point>182,73</point>
+				<point>225,73</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>poly</type>
+			<description>None</description>
+			<possibleresult roof_type="gable_roof" use="multi_family_house" />
+			<points is_hollow="False">
+				<point>309,103</point>
+				<point>309,85</point>
+				<point>309,70</point>
+				<point>404,71</point>
+				<point>404,103</point>
+				<point>309,103</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>poly</type>
+			<description>None</description>
+			<possibleresult roof_type="flat_roof" use="apartment_high" />
+			<points is_hollow="False">
+				<point>139,66</point>
+				<point>139,71</point>
+				<point>145,71</point>
+				<point>145,82</point>
+				<point>151,82</point>
+				<point>151,71</point>
+				<point>158,71</point>
+				<point>158,68</point>
+				<point>176,68</point>
+				<point>178,138</point>
+				<point>160,138</point>
+				<point>160,133</point>
+				<point>138,134</point>
+				<point>138,139</point>
+				<point>115,140</point>
+				<point>114,66</point>
+				<point>139,66</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>poly</type>
+			<description>None</description>
+			<possibleresult roof_type="arched_roof" use="residential_other" />
+			<points is_hollow="False">
+				<point>66,55</point>
+				<point>72,55</point>
+				<point>71,80</point>
+				<point>57,80</point>
+				<point>57,55</point>
+				<point>66,55</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>poly</type>
+			<description>None</description>
+			<possibleresult roof_type="flat_roof" use="multi_family_house" />
+			<points is_hollow="False">
+				<point>66,55</point>
+				<point>57,55</point>
+				<point>52,55</point>
+				<point>52,66</point>
+				<point>16,65</point>
+				<point>17,54</point>
+				<point>0,54</point>
+				<point>0,26</point>
+				<point>67,27</point>
+				<point>66,55</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>poly</type>
+			<description>None</description>
+			<possibleresult roof_type="flat_roof" use="other" />
+			<points is_hollow="False">
+				<point>440,0</point>
+				<point>440,6</point>
+				<point>447,6</point>
+				<point>447,0</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>poly</type>
+			<description>None</description>
+			<possibleresult roof_type="other" use="other" />
+			<points is_hollow="False">
+				<point>466,360</point>
+				<point>466,366</point>
+				<point>444,364</point>
+				<point>440,363</point>
+				<point>436,360</point>
+				<point>433,356</point>
+				<point>431,351</point>
+				<point>429,342</point>
+				<point>435,341</point>
+				<point>436,350</point>
+				<point>438,353</point>
+				<point>441,356</point>
+				<point>444,359</point>
+				<point>449,360</point>
+				<point>466,360</point>
+			</points>
+		</object>
+	</objects>
+</annotation>

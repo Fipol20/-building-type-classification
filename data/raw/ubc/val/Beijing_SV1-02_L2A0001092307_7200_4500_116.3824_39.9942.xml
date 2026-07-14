@@ -1,0 +1,262 @@
+<?xml version='1.0' encoding='utf-8'?>
+<annotation>
+	<source>
+		<filename>Beijing_SV1-02_L2A0001092307_7200_4500_116.3824_39.9942_RGB.tif</filename>
+		<origin>SuperView</origin>
+	</source>
+	<research>
+		<version>1.0</version>
+		<provider>FAIR1M</provider>
+		<author>Cyber</author>
+		<pluginname>FAIR1M</pluginname>
+		<pluginclass>instance segmentation</pluginclass>
+		<time>2022-2</time>
+	</research>
+	<size>
+		<width>600</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<objects>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>poly</type>
+			<description>None</description>
+			<possibleresult roof_type="other" use="sports_hall" />
+			<points is_hollow="False">
+				<point>461,367</point>
+				<point>460,368</point>
+				<point>422,368</point>
+				<point>421,369</point>
+				<point>382,369</point>
+				<point>381,370</point>
+				<point>343,370</point>
+				<point>342,371</point>
+				<point>304,371</point>
+				<point>303,372</point>
+				<point>265,372</point>
+				<point>264,373</point>
+				<point>226,373</point>
+				<point>225,374</point>
+				<point>186,374</point>
+				<point>185,375</point>
+				<point>147,375</point>
+				<point>146,376</point>
+				<point>127,376</point>
+				<point>127,398</point>
+				<point>128,399</point>
+				<point>128,442</point>
+				<point>129,443</point>
+				<point>129,486</point>
+				<point>130,487</point>
+				<point>130,530</point>
+				<point>131,531</point>
+				<point>131,574</point>
+				<point>132,575</point>
+				<point>132,599</point>
+				<point>485,599</point>
+				<point>485,562</point>
+				<point>484,561</point>
+				<point>484,519</point>
+				<point>483,518</point>
+				<point>483,476</point>
+				<point>482,475</point>
+				<point>482,432</point>
+				<point>481,431</point>
+				<point>481,389</point>
+				<point>480,388</point>
+				<point>480,367</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>poly</type>
+			<description>None</description>
+			<possibleresult roof_type="flat_roof" use="public_other" />
+			<points is_hollow="False">
+				<point>110,121</point>
+				<point>109,127</point>
+				<point>84,126</point>
+				<point>85,121</point>
+				<point>110,121</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>poly</type>
+			<description>None</description>
+			<possibleresult roof_type="hipped_roof_v2" use="public_other" />
+			<points is_hollow="False">
+				<point>186,145</point>
+				<point>186,120</point>
+				<point>201,120</point>
+				<point>201,145</point>
+				<point>186,145</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>poly</type>
+			<description>None</description>
+			<possibleresult roof_type="hipped_roof_v2" use="public_other" />
+			<points is_hollow="False">
+				<point>365,140</point>
+				<point>352,140</point>
+				<point>352,114</point>
+				<point>365,114</point>
+				<point>365,140</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>poly</type>
+			<description>None</description>
+			<possibleresult roof_type="flat_roof" use="public_other" />
+			<points is_hollow="False">
+				<point>362,110</point>
+				<point>351,110</point>
+				<point>351,103</point>
+				<point>362,103</point>
+				<point>362,110</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>poly</type>
+			<description>None</description>
+			<possibleresult roof_type="gable_roof" use="public_other" />
+			<points is_hollow="False">
+				<point>159,93</point>
+				<point>147,93</point>
+				<point>146,64</point>
+				<point>159,64</point>
+				<point>159,93</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>poly</type>
+			<description>None</description>
+			<possibleresult roof_type="gable_roof" use="public_other" />
+			<points is_hollow="False">
+				<point>202,118</point>
+				<point>173,118</point>
+				<point>172,62</point>
+				<point>201,62</point>
+				<point>202,118</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>poly</type>
+			<description>None</description>
+			<possibleresult roof_type="gable_roof" use="public_other" />
+			<points is_hollow="False">
+				<point>127,62</point>
+				<point>126,113</point>
+				<point>91,112</point>
+				<point>91,99</point>
+				<point>114,100</point>
+				<point>114,62</point>
+				<point>127,62</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>poly</type>
+			<description>None</description>
+			<possibleresult roof_type="gable_roof" use="public_other" />
+			<points is_hollow="False">
+				<point>81,89</point>
+				<point>74,89</point>
+				<point>73,50</point>
+				<point>80,50</point>
+				<point>81,89</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>poly</type>
+			<description>None</description>
+			<possibleresult roof_type="gable_roof" use="public_other" />
+			<points is_hollow="False">
+				<point>154,50</point>
+				<point>144,50</point>
+				<point>144,35</point>
+				<point>154,35</point>
+				<point>154,50</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>poly</type>
+			<description>None</description>
+			<possibleresult roof_type="flat_roof" use="public_other" />
+			<points is_hollow="False">
+				<point>391,41</point>
+				<point>380,41</point>
+				<point>380,33</point>
+				<point>391,33</point>
+				<point>391,41</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>poly</type>
+			<description>None</description>
+			<possibleresult roof_type="gable_roof" use="public_other" />
+			<points is_hollow="False">
+				<point>77,43</point>
+				<point>72,43</point>
+				<point>72,7</point>
+				<point>83,7</point>
+				<point>83,29</point>
+				<point>77,29</point>
+				<point>77,43</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>poly</type>
+			<description>None</description>
+			<possibleresult roof_type="flat_roof" use="public_other" />
+			<points is_hollow="False">
+				<point>103,34</point>
+				<point>88,34</point>
+				<point>88,4</point>
+				<point>102,4</point>
+				<point>103,34</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>poly</type>
+			<description>None</description>
+			<possibleresult roof_type="arched_roof" use="sports_hall" />
+			<points is_hollow="False">
+				<point>344,32</point>
+				<point>344,38</point>
+				<point>215,41</point>
+				<point>214,35</point>
+				<point>164,37</point>
+				<point>163,0</point>
+				<point>409,0</point>
+				<point>410,30</point>
+				<point>344,32</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>poly</type>
+			<description>None</description>
+			<possibleresult roof_type="hipped_roof_v2" use="public_other" />
+			<points is_hollow="False">
+				<point>186,145</point>
+				<point>173,145</point>
+				<point>173,120</point>
+				<point>186,120</point>
+				<point>186,145</point>
+			</points>
+		</object>
+	</objects>
+</annotation>

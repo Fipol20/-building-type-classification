@@ -1,0 +1,144 @@
+<?xml version='1.0' encoding='utf-8'?>
+<annotation>
+	<source>
+		<filename>Munich_SV1-03_L2A0001092311_5800_14800_11.5606_48.1200_RGB.tif</filename>
+		<origin>SuperView</origin>
+	</source>
+	<research>
+		<version>1.0</version>
+		<provider>FAIR1M</provider>
+		<author>Cyber</author>
+		<pluginname>FAIR1M</pluginname>
+		<pluginclass>instance segmentation</pluginclass>
+		<time>2022-2</time>
+	</research>
+	<size>
+		<width>600</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<objects>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>poly</type>
+			<description>None</description>
+			<possibleresult roof_type="flat_roof" use="other" />
+			<points is_hollow="False">
+				<point>432,592</point>
+				<point>431,593</point>
+				<point>431,594</point>
+				<point>430,595</point>
+				<point>430,596</point>
+				<point>429,597</point>
+				<point>429,598</point>
+				<point>428,599</point>
+				<point>443,599</point>
+				<point>443,598</point>
+				<point>442,597</point>
+				<point>441,597</point>
+				<point>440,596</point>
+				<point>439,596</point>
+				<point>438,595</point>
+				<point>437,595</point>
+				<point>436,594</point>
+				<point>435,594</point>
+				<point>434,593</point>
+				<point>433,593</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>poly</type>
+			<description>None</description>
+			<possibleresult roof_type="gable_roof" use="greenhouse" />
+			<points is_hollow="False">
+				<point>599,462</point>
+				<point>590,471</point>
+				<point>599,480</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>poly</type>
+			<description>None</description>
+			<possibleresult roof_type="gable_roof" use="other" />
+			<points is_hollow="False">
+				<point>587,380</point>
+				<point>583,384</point>
+				<point>582,384</point>
+				<point>579,387</point>
+				<point>584,392</point>
+				<point>584,393</point>
+				<point>593,402</point>
+				<point>593,403</point>
+				<point>599,409</point>
+				<point>599,393</point>
+				<point>593,387</point>
+				<point>593,386</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>poly</type>
+			<description>None</description>
+			<possibleresult roof_type="hipped_roof_v2" use="other" />
+			<points is_hollow="False">
+				<point>0,142</point>
+				<point>0,160</point>
+				<point>1,159</point>
+				<point>3,159</point>
+				<point>4,158</point>
+				<point>5,158</point>
+				<point>5,157</point>
+				<point>4,156</point>
+				<point>4,154</point>
+				<point>3,153</point>
+				<point>3,150</point>
+				<point>2,149</point>
+				<point>2,147</point>
+				<point>1,146</point>
+				<point>1,144</point>
+				<point>0,143</point>
+			</points>
+			<points is_hollow="False">
+				<point>0,115</point>
+				<point>0,140</point>
+				<point>1,139</point>
+				<point>4,139</point>
+				<point>5,138</point>
+				<point>6,138</point>
+				<point>6,134</point>
+				<point>5,133</point>
+				<point>5,131</point>
+				<point>4,130</point>
+				<point>4,127</point>
+				<point>3,126</point>
+				<point>3,124</point>
+				<point>2,123</point>
+				<point>2,121</point>
+				<point>1,120</point>
+				<point>1,118</point>
+				<point>0,117</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>poly</type>
+			<description>None</description>
+			<possibleresult roof_type="flat_roof" use="apartment_high" />
+			<points is_hollow="False">
+				<point>0,0</point>
+				<point>0,17</point>
+				<point>8,17</point>
+				<point>8,13</point>
+				<point>9,12</point>
+				<point>14,12</point>
+				<point>15,13</point>
+				<point>20,13</point>
+				<point>20,7</point>
+				<point>21,6</point>
+				<point>21,0</point>
+			</points>
+		</object>
+	</objects>
+</annotation>

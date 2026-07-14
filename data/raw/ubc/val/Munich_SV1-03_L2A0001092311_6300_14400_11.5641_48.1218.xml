@@ -1,0 +1,111 @@
+<?xml version='1.0' encoding='utf-8'?>
+<annotation>
+	<source>
+		<filename>Munich_SV1-03_L2A0001092311_6300_14400_11.5641_48.1218_RGB.tif</filename>
+		<origin>SuperView</origin>
+	</source>
+	<research>
+		<version>1.0</version>
+		<provider>FAIR1M</provider>
+		<author>Cyber</author>
+		<pluginname>FAIR1M</pluginname>
+		<pluginclass>instance segmentation</pluginclass>
+		<time>2022-2</time>
+	</research>
+	<size>
+		<width>600</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<objects>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>poly</type>
+			<description>None</description>
+			<possibleresult roof_type="other" use="other" />
+			<points is_hollow="False">
+				<point>122,398</point>
+				<point>119,403</point>
+				<point>118,408</point>
+				<point>117,411</point>
+				<point>118,419</point>
+				<point>118,421</point>
+				<point>120,426</point>
+				<point>126,435</point>
+				<point>127,433</point>
+				<point>149,458</point>
+				<point>146,461</point>
+				<point>149,463</point>
+				<point>154,468</point>
+				<point>163,472</point>
+				<point>174,472</point>
+				<point>182,471</point>
+				<point>187,476</point>
+				<point>177,480</point>
+				<point>162,480</point>
+				<point>150,475</point>
+				<point>143,469</point>
+				<point>140,465</point>
+				<point>130,474</point>
+				<point>120,462</point>
+				<point>109,449</point>
+				<point>119,440</point>
+				<point>121,439</point>
+				<point>119,436</point>
+				<point>113,429</point>
+				<point>110,419</point>
+				<point>110,408</point>
+				<point>113,399</point>
+				<point>117,393</point>
+				<point>118,393</point>
+				<point>122,398</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>poly</type>
+			<description>None</description>
+			<possibleresult roof_type="flat_roof" use="other" />
+			<points is_hollow="False">
+				<point>599,367</point>
+				<point>596,381</point>
+				<point>590,380</point>
+				<point>593,366</point>
+				<point>599,367</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>poly</type>
+			<description>None</description>
+			<possibleresult roof_type="pinnacle_roof" use="other" />
+			<points is_hollow="False">
+				<point>122,398</point>
+				<point>118,393</point>
+				<point>117,392</point>
+				<point>115,390</point>
+				<point>117,389</point>
+				<point>126,381</point>
+				<point>135,391</point>
+				<point>130,396</point>
+				<point>124,400</point>
+				<point>122,398</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>poly</type>
+			<description>None</description>
+			<possibleresult roof_type="pinnacle_roof" use="other" />
+			<points is_hollow="False">
+				<point>187,476</point>
+				<point>182,471</point>
+				<point>181,469</point>
+				<point>192,460</point>
+				<point>201,470</point>
+				<point>190,479</point>
+				<point>187,476</point>
+			</points>
+		</object>
+	</objects>
+</annotation>

@@ -1,0 +1,157 @@
+<?xml version='1.0' encoding='utf-8'?>
+<annotation>
+	<source>
+		<filename>Beijing_SV1-02_L2A0001092307_7600_4500_116.3848_39.9942_RGB.tif</filename>
+		<origin>SuperView</origin>
+	</source>
+	<research>
+		<version>1.0</version>
+		<provider>FAIR1M</provider>
+		<author>Cyber</author>
+		<pluginname>FAIR1M</pluginname>
+		<pluginclass>instance segmentation</pluginclass>
+		<time>2022-2</time>
+	</research>
+	<size>
+		<width>600</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<objects>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>poly</type>
+			<description>None</description>
+			<possibleresult roof_type="flat_roof" use="public_other" />
+			<points is_hollow="False">
+				<point>309,526</point>
+				<point>282,527</point>
+				<point>282,518</point>
+				<point>309,518</point>
+				<point>309,526</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>poly</type>
+			<description>None</description>
+			<possibleresult roof_type="flat_roof" use="public_other" />
+			<points is_hollow="False">
+				<point>599,515</point>
+				<point>597,517</point>
+				<point>597,518</point>
+				<point>592,523</point>
+				<point>592,524</point>
+				<point>588,528</point>
+				<point>588,529</point>
+				<point>586,531</point>
+				<point>587,532</point>
+				<point>587,533</point>
+				<point>588,534</point>
+				<point>588,535</point>
+				<point>589,536</point>
+				<point>589,537</point>
+				<point>590,538</point>
+				<point>590,539</point>
+				<point>591,540</point>
+				<point>591,541</point>
+				<point>592,542</point>
+				<point>592,543</point>
+				<point>594,545</point>
+				<point>594,546</point>
+				<point>595,547</point>
+				<point>595,548</point>
+				<point>596,549</point>
+				<point>596,550</point>
+				<point>597,551</point>
+				<point>597,552</point>
+				<point>598,553</point>
+				<point>598,554</point>
+				<point>599,555</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>poly</type>
+			<description>None</description>
+			<possibleresult roof_type="other" use="sports_hall" />
+			<points is_hollow="False">
+				<point>61,367</point>
+				<point>60,368</point>
+				<point>22,368</point>
+				<point>21,369</point>
+				<point>0,369</point>
+				<point>0,599</point>
+				<point>85,599</point>
+				<point>85,562</point>
+				<point>84,561</point>
+				<point>84,519</point>
+				<point>83,518</point>
+				<point>83,476</point>
+				<point>82,475</point>
+				<point>82,432</point>
+				<point>81,431</point>
+				<point>81,389</point>
+				<point>80,388</point>
+				<point>80,367</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>poly</type>
+			<description>None</description>
+			<possibleresult roof_type="flat_roof" use="public_other" />
+			<points is_hollow="False">
+				<point>272,255</point>
+				<point>272,260</point>
+				<point>285,260</point>
+				<point>286,268</point>
+				<point>254,268</point>
+				<point>253,262</point>
+				<point>266,262</point>
+				<point>266,255</point>
+				<point>272,255</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>poly</type>
+			<description>None</description>
+			<possibleresult roof_type="flat_roof" use="public_other" />
+			<points is_hollow="False">
+				<point>339,112</point>
+				<point>331,112</point>
+				<point>331,94</point>
+				<point>339,93</point>
+				<point>339,112</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>poly</type>
+			<description>None</description>
+			<possibleresult roof_type="flat_roof" use="public_other" />
+			<points is_hollow="False">
+				<point>262,39</point>
+				<point>226,39</point>
+				<point>226,18</point>
+				<point>235,18</point>
+				<point>235,11</point>
+				<point>262,11</point>
+				<point>262,39</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>poly</type>
+			<description>None</description>
+			<possibleresult roof_type="arched_roof" use="sports_hall" />
+			<points is_hollow="False">
+				<point>0,0</point>
+				<point>0,30</point>
+				<point>9,30</point>
+				<point>9,0</point>
+			</points>
+		</object>
+	</objects>
+</annotation>
