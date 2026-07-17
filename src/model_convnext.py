@@ -42,6 +42,19 @@ def unfreeze_all(model: nn.Module) -> None:
     _set_requires_grad(model, True)
 
 
+def freeze_backbone_only(model: nn.Module) -> None:
+    """Заморозить весь backbone, обучается только голова (classifier).
+
+    Используется для decoupling-этапа (Kang et al., "Decoupling Representation
+    and Classifier for Long-Tailed Recognition"): признаки (backbone) обучены
+    на естественном распределении, а классификатор (head) переобучается
+    отдельно на сбалансированной выборке поверх замороженных признаков.
+    """
+    _set_requires_grad(model, False)
+    _set_requires_grad(model.head, True)
+
+
+
 def count_trainable_params(model: nn.Module) -> int:
     """Возвращает число обучаемых параметров модели."""
     return sum(p.numel() for p in model.parameters() if p.requires_grad)
