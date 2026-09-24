@@ -1,0 +1,10 @@
+src/__pycache__/
+**/__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+.env
+
+# Датасеты и веса скачиваются/обучаются локально
+data/
+models/*.pth
